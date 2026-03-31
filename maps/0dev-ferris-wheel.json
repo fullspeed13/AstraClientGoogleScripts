@@ -1,0 +1,2075 @@
+{
+  "terrainBaseHeight": -1,
+  "trackCurves": [
+    {
+      "uuid": "aedecd77-b9ed-4aa9-bc21-40007fd32116",
+      "name": "FerrisCircle1",
+      "tag": "ferris-circle",
+      "snap": {
+        "x": 10,
+        "y": 10,
+        "z": 10
+      },
+      "closed": true,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.8,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": -10
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 20,
+          "z": 30
+        },
+        {
+          "x": 0,
+          "y": 40,
+          "z": 10
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "ab9be38f-a543-4ad8-8d10-803135ee5cf2",
+      "name": "FerrisCircle2",
+      "tag": "ferris-circle",
+      "snap": {
+        "x": 10,
+        "y": 10,
+        "z": 10
+      },
+      "closed": true,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.8,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": -10
+        },
+        {
+          "x": 10,
+          "y": 0,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 20,
+          "z": 30
+        },
+        {
+          "x": 10,
+          "y": 40,
+          "z": 10
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "a5cbd44e-ce59-40b5-9f16-80cb603554ce",
+      "name": "FerrisSupport1",
+      "tag": "ferris-support",
+      "snap": {
+        "x": 10,
+        "y": 10,
+        "z": 10
+      },
+      "closed": true,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": -10
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 30
+        },
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "1a2b982c-c6ea-4822-a289-3affb9c67380",
+      "name": "FerrisSupport2",
+      "tag": "ferris-support",
+      "snap": {
+        "x": 10,
+        "y": 10,
+        "z": 10
+      },
+      "closed": true,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 0,
+          "z": -10
+        },
+        {
+          "x": 10,
+          "y": 0,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 0,
+          "z": 30
+        },
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "ba3b8154-07eb-4ece-bb3a-54a7d3198080",
+      "name": "FerrisBar1",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 5,
+        "y": 10,
+        "z": 5
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 20,
+          "z": 20
+        },
+        {
+          "x": 10,
+          "y": 20,
+          "z": 15
+        },
+        {
+          "x": 10,
+          "y": 20,
+          "z": 30
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "8c0c1392-e08f-4c87-8367-deedf23fcf93",
+      "name": "FerrisBar2",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 18,
+          "z": 14
+        },
+        {
+          "x": 10,
+          "y": 14,
+          "z": 22
+        },
+        {
+          "x": 10,
+          "y": 12,
+          "z": 28
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "9e5b3453-7cc5-4544-8a80-3952bad554cb",
+      "name": "FerrisBar3",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 14,
+          "z": 12
+        },
+        {
+          "x": 10,
+          "y": 8,
+          "z": 14
+        },
+        {
+          "x": 10,
+          "y": 0,
+          "z": 18
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "c3ecdafc-f662-41dd-b323-a5d8951325ce",
+      "name": "FerrisBar4",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 14,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 8,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 0,
+          "z": 10
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "d632070e-f92d-44e7-9c01-0327defad0af",
+      "name": "FerrisBar5",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 14,
+          "z": 8
+        },
+        {
+          "x": 10,
+          "y": 8,
+          "z": 6
+        },
+        {
+          "x": 10,
+          "y": 0,
+          "z": 2
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "f3d04d5b-202b-4a5f-8ac5-c3e1030cbdbc",
+      "name": "FerrisBar6",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 18,
+          "z": 4
+        },
+        {
+          "x": 10,
+          "y": 16,
+          "z": -2
+        },
+        {
+          "x": 10,
+          "y": 12,
+          "z": -8
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "cd431a42-5245-47c7-845e-56a733d8b779",
+      "name": "FerrisBar7",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 20,
+          "z": 4
+        },
+        {
+          "x": 10,
+          "y": 20,
+          "z": -2
+        },
+        {
+          "x": 10,
+          "y": 20,
+          "z": -10
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "0809b288-ba1d-4923-bd42-1ab4c3f9f475",
+      "name": "FerrisBar8",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 24,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 32,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 40,
+          "z": 10
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "5486ea3b-5a3c-4bdf-9197-696db1a28beb",
+      "name": "FerrisBar9",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 28,
+          "z": 6
+        },
+        {
+          "x": 10,
+          "y": 34,
+          "z": 4
+        },
+        {
+          "x": 10,
+          "y": 38,
+          "z": 2
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "a1093d8f-e1f2-41f8-8e6b-d890f3197092",
+      "name": "FerrisBar10",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 26,
+          "z": 4
+        },
+        {
+          "x": 10,
+          "y": 30,
+          "z": 0
+        },
+        {
+          "x": 10,
+          "y": 34,
+          "z": -4
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "ab0fa32f-5198-444e-b64a-f93a3330256e",
+      "name": "FerrisBar11",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 24,
+          "z": 2
+        },
+        {
+          "x": 10,
+          "y": 26,
+          "z": -4
+        },
+        {
+          "x": 10,
+          "y": 28,
+          "z": -8
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "5c086ae4-31b5-40e1-9bd9-6e880b4c596c",
+      "name": "FerrisBar12",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 28,
+          "z": 14
+        },
+        {
+          "x": 10,
+          "y": 34,
+          "z": 16
+        },
+        {
+          "x": 10,
+          "y": 38,
+          "z": 18
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "503f8560-3fd7-40bc-9a30-a8f197684206",
+      "name": "FerrisBar13",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 24,
+          "z": 18
+        },
+        {
+          "x": 10,
+          "y": 26,
+          "z": 24
+        },
+        {
+          "x": 10,
+          "y": 28,
+          "z": 28
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "a18d942f-e79a-4866-8ca5-7aef2323ec18",
+      "name": "FerrisBar14",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 10,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 10,
+          "y": 26,
+          "z": 16
+        },
+        {
+          "x": 10,
+          "y": 30,
+          "z": 20
+        },
+        {
+          "x": 10,
+          "y": 34,
+          "z": 24
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "5064749a-c00d-4992-8a6c-7c0d87806adb",
+      "name": "FerrisBar1 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 5,
+        "y": 10,
+        "z": 5
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 20,
+          "z": 20
+        },
+        {
+          "x": 0,
+          "y": 20,
+          "z": 15
+        },
+        {
+          "x": 0,
+          "y": 20,
+          "z": 30
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "4e02724f-701a-4de2-8352-59af1430f447",
+      "name": "FerrisBar2 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 18,
+          "z": 14
+        },
+        {
+          "x": 0,
+          "y": 14,
+          "z": 22
+        },
+        {
+          "x": 0,
+          "y": 12,
+          "z": 28
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "760bffba-36e7-475f-b915-b7589c6585c9",
+      "name": "FerrisBar3 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 14,
+          "z": 12
+        },
+        {
+          "x": 0,
+          "y": 8,
+          "z": 14
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 18
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "6ab2fb09-a044-4dc4-b4fc-d60fd5bb57e2",
+      "name": "FerrisBar4 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 14,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 8,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 10
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "3262133a-691f-4760-bf22-8705c921c780",
+      "name": "FerrisBar5 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 14,
+          "z": 8
+        },
+        {
+          "x": 0,
+          "y": 8,
+          "z": 6
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 2
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "06b69bf8-b1be-4152-8be6-2eecea1a0acb",
+      "name": "FerrisBar6 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 18,
+          "z": 4
+        },
+        {
+          "x": 0,
+          "y": 16,
+          "z": -2
+        },
+        {
+          "x": 0,
+          "y": 12,
+          "z": -8
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "e3fb1244-6ba8-4a9b-b082-45879172ae55",
+      "name": "FerrisBar7 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 20,
+          "z": 4
+        },
+        {
+          "x": 0,
+          "y": 20,
+          "z": -2
+        },
+        {
+          "x": 0,
+          "y": 20,
+          "z": -10
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "c41b5020-058b-4254-8dcd-fd9251d1b26f",
+      "name": "FerrisBar8 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 24,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 32,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 40,
+          "z": 10
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "4f5375af-6b4a-4d6f-8622-fee313b01885",
+      "name": "FerrisBar9 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 28,
+          "z": 6
+        },
+        {
+          "x": 0,
+          "y": 34,
+          "z": 4
+        },
+        {
+          "x": 0,
+          "y": 38,
+          "z": 2
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "f904469b-361c-479e-9255-838c6a6f7aa7",
+      "name": "FerrisBar10 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 26,
+          "z": 4
+        },
+        {
+          "x": 0,
+          "y": 30,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 34,
+          "z": -4
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "840b3a36-739a-42f2-b008-929cb13c5336",
+      "name": "FerrisBar11 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 24,
+          "z": 2
+        },
+        {
+          "x": 0,
+          "y": 26,
+          "z": -4
+        },
+        {
+          "x": 0,
+          "y": 28,
+          "z": -8
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "0f19e185-9be9-4781-b365-99dec51cdd3c",
+      "name": "FerrisBar12 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 28,
+          "z": 14
+        },
+        {
+          "x": 0,
+          "y": 34,
+          "z": 16
+        },
+        {
+          "x": 0,
+          "y": 38,
+          "z": 18
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "f3cb7164-3370-4ed4-b67b-232b8dd469b8",
+      "name": "FerrisBar13 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 24,
+          "z": 18
+        },
+        {
+          "x": 0,
+          "y": 26,
+          "z": 24
+        },
+        {
+          "x": 0,
+          "y": 28,
+          "z": 28
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    },
+    {
+      "uuid": "f1e52b91-e351-4336-9563-e12c24603f08",
+      "name": "FerrisBar14 (Copy)",
+      "tag": "ferris-bar",
+      "snap": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "closed": false,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "tension": 0.01,
+      "curveType": "catmullrom",
+      "points": [
+        {
+          "x": 0,
+          "y": 20,
+          "z": 10
+        },
+        {
+          "x": 0,
+          "y": 26,
+          "z": 16
+        },
+        {
+          "x": 0,
+          "y": 30,
+          "z": 20
+        },
+        {
+          "x": 0,
+          "y": 34,
+          "z": 24
+        }
+      ],
+      "data": [
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        {
+          "bank": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      ]
+    }
+  ],
+  "meshes2D": [],
+  "graphs": [],
+  "graphMeshes": [],
+  "extruders": [
+    {
+      "uuid": "bcef8f2b-88f6-4ed9-8cfd-f234f2671914",
+      "name": "Ferris Circle",
+      "tag": "",
+      "curveIndex": 0,
+      "curveTag": "ferris-circle",
+      "steps": 16,
+      "depth": 8,
+      "scaleFunc": "",
+      "posFunc": "",
+      "color": 15406100,
+      "shape": "[[0,-1],[1,0],[0,1],[-1,0]]",
+      "swapXY": true
+    },
+    {
+      "uuid": "db1558c1-bb39-4da6-915b-55aefe4982f7",
+      "name": "Ferris Support",
+      "tag": "",
+      "curveIndex": 0,
+      "curveTag": "ferris-support",
+      "steps": 60,
+      "depth": 8,
+      "scaleFunc": "",
+      "posFunc": "",
+      "color": 15406100,
+      "shape": "[[0,-1],[1,0],[0,1],[-1,0]]",
+      "swapXY": true
+    },
+    {
+      "uuid": "ce0a2f9a-6010-46e6-ae67-0bcb18a504a1",
+      "name": "Ferris Bar",
+      "tag": "",
+      "curveIndex": 0,
+      "curveTag": "ferris-bar",
+      "steps": 2,
+      "depth": 8,
+      "scaleFunc": "eq,0.5,0.5",
+      "posFunc": "",
+      "color": 15406100,
+      "shape": "[[0,-1],[1,0],[0,1],[-1,0]]",
+      "swapXY": true
+    }
+  ],
+  "objectInstancers": [],
+  "objectPlacers": [],
+  "objects": [
+    {
+      "uuid": "58631de8-b0d0-4375-b80a-aca135af374e",
+      "name": "New Object",
+      "className": "NewObject",
+      "prefab": "",
+      "model": "",
+      "modelScale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "triggerSize": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "props": "{}"
+    }
+  ],
+  "terrainBrushes": [],
+  "extraData": "",
+  "_editor": {
+    "cameraPosition": {
+      "x": 26.4784760892832,
+      "y": 38.87535294637812,
+      "z": -40.715382959635086
+    },
+    "cameraQuaternion": [
+      -0.016429726778910567,
+      0.9799727369847758,
+      0.1761504674143347,
+      0.09140301786182385
+    ]
+  },
+  "hash": "a80b599eaa17dfe51172df556115eb0596d2d556",
+  "thumbnail": ""
+}
