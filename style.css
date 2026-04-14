@@ -45,9 +45,12 @@ nav {
 
 .button-grid {
     display: flex;
+    flex-wrap: wrap;       /* Allows buttons to move to the next line */
+    justify-content: center; /* Centers buttons horizontally */
     gap: 30px;
     width: 100%;
-    max-width: 800px;
+    max-width: 1000px;     /* Increased slightly to fit more cards side-by-side */
+    margin: 0 auto;        /* Ensures the grid itself is centered */
 }
 
 .launch-card {
