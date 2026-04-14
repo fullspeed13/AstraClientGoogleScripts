@@ -54,7 +54,7 @@ nav {
 }
 
 .launch-card {
-    flex: 1;
+    flex: 0 1 250px; /* Prevents cards from growing too wide, keeps them uniform */
     background: var(--card-bg);
     border: 1px solid var(--border);
     padding: 60px 20px;
